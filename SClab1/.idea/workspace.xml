@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="209f30ce-7f2c-4d63-aee7-2d2b835819b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l0WZ8iXziJQZ8viKOJq9WUqq85" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab3" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lab1.task1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab1.utility.MainFrame" />
+      <module name="SClab1" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="209f30ce-7f2c-4d63-aee7-2d2b835819b4" name="Default Changelist" comment="" />
+      <created>1606734541918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606734541918</updated>
+      <workItem from="1606734544967" duration="174000" />
+      <workItem from="1606734850135" duration="1953000" />
+      <workItem from="1613557182681" duration="1327000" />
+      <workItem from="1613561517407" duration="3578000" />
+      <workItem from="1613642364844" duration="609000" />
+      <workItem from="1613646266893" duration="87000" />
+      <workItem from="1614167496449" duration="2373000" />
+      <workItem from="1614770895057" duration="4824000" />
+      <workItem from="1614795053750" duration="22000" />
+      <workItem from="1614795497498" duration="344000" />
+      <workItem from="1614796109313" duration="36000" />
+      <workItem from="1615378258684" duration="80000" />
+      <workItem from="1615379074014" duration="1395000" />
+      <workItem from="1615980325751" duration="2842000" />
+      <workItem from="1615990312605" duration="16000" />
+      <workItem from="1616585692465" duration="1794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1613563839806">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1613563839806" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1616587404721">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1616587404721" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1615983362505">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1615983362505" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1615983362505">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1615983362505" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1615983362504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1615983362504" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1615983362505">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1615983362505" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1614774260458">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1280.680@0.0.1280.680" timestamp="1614774260458" />
+  </component>
+</project>
